@@ -11,7 +11,7 @@ export default function Rodape() {
 
         <div className="coluna">
           <h4>Desenvolvido por</h4>
-          <p>sergio ramalho macedo junior</p>
+          <p>Vinicius Freire Costa</p>
           <p>PROF: pedro</p>
         </div>
 
